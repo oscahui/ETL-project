@@ -1,4 +1,4 @@
-,Country_code,Country,Year,Currency,Annual_income,Rate,income_USD,alpha2,eu_region,avg_price,price_index
+,Country_code,Country,Year,Currency,Annual_income,Rate,Income_USD,alpha2,eu_region,avg_price,price_index
 0,AUS,Australia,2019,AUD,83602.47835,1.4392727194113721,58086.61362260198,AU,,43.14666666666667,0.05160931531961775
 18,CAN,Canada,2019,CAD,69174.86105,1.3269366249976466,52131.24707453357,CA,,41.82666666666666,0.06046512567106437
 29,USA,United States,2019,USD,65835.57764,1.0,65835.57764,US,,33.32333333333333,0.050615995982523185
