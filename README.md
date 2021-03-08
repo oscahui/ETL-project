@@ -40,5 +40,5 @@ Different transformation processes are applied to the datasets. Two final tables
 
 ## Data load
 
-Data are loaded to MongoDB due to the different structures of data.
+The data/results are loaded to MongoDB due to the different structures of data.
 The final output data is also saved in json/csv files for easier grading.
