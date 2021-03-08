@@ -4,7 +4,7 @@ Team members: Zheng Qi, Oscar Hui, Chad Melenaar, Joe Quin
 
 ## Overview
 
-This project aims to help gamers and game publishers access data through SQL/MongoDB to better understand and/or for analyses for information such as game sales/genre popularity etc.
+This project aims to help gamers and game publishers/developers access data through SQL/MongoDB to better understand and/or for analyses for information such as game sales/genre popularity etc.
 
 This project will be done in two parts. Part one focuses on the populartiy information of publisher/genres/price of different games. Part two focuses on the relationship between game regional price and region GDP.
 
