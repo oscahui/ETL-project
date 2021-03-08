@@ -32,6 +32,8 @@ The dataset includes the information of publisehr/developer/comments number/play
 
 The extracted data formart are mostly json style, which is stored as csv or json format on local machine for later transfomration processes, depending on the structure of extracted information.
 
+The ERD of different datasets can be find in Part_One_ERD.png and Project_ERD_Part_One_and_two.png.
+
 ## Data transformation
 
 Different transformation processes are applied to the datasets. Two final tables for two parts are generated to investigate the relationship between different variables.
