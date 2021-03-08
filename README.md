@@ -12,7 +12,7 @@ The program should be run as the following order:
 
 * Part_One_GameGenres_and_Feedback-DataExtraction
 * Part_One_GameGenres_and_Feedback-TransAndLoad
-* Part_Two_GamePrice_and_RegionalGDP
+* Part_Two_Steam_Game_Price_Index
 
 ## Data source
 
